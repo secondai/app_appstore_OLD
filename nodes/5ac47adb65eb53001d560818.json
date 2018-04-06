@@ -1,0 +1,14 @@
+{
+  "_id": "5ac47adb65eb53001d560818",
+  "nodeId": "5ac47b9865eb53001d560864",
+  "type": "platform_nodes:Qmtlksjflsdjfljf",
+  "data": {
+    "platform": "browser",
+    "defaultBranch": "master",
+    "repo": "bundle_browser_appstore",
+    "owner": "secondai"
+  },
+  "active": true,
+  "createdAt": 1522825947440,
+  "updatedAt": 1522984158994
+}

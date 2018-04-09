@@ -1,5 +1,6 @@
 {
   "_id": "5ac47af765eb53001d56082e",
+  "name": "MainMessagesComponent",
   "nodeId": "5ac47ae265eb53001d56081e",
   "type": "react_component:0.0.1:local:98912hd89",
   "data": {
@@ -21,5 +22,5 @@
   },
   "active": true,
   "createdAt": 1522825975518,
-  "updatedAt": null
+  "updatedAt": 1523302048915
 }

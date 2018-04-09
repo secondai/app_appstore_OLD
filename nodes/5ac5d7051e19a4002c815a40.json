@@ -1,5 +1,6 @@
 {
   "_id": "5ac5d7051e19a4002c815a40",
+  "name": "EditAppComponent",
   "nodeId": "5ac47ae265eb53001d56081e",
   "type": "react_component:0.0.1:local:98912hd89",
   "data": {
@@ -11,5 +12,5 @@
   },
   "active": true,
   "createdAt": 1522915077895,
-  "updatedAt": 1522956801188
+  "updatedAt": 1523302073243
 }

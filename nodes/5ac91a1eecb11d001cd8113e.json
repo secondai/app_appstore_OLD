@@ -1,5 +1,6 @@
 {
   "_id": "5ac91a1eecb11d001cd8113e",
+  "name": "SetupAdvancedComponent",
   "nodeId": "5ac47ae265eb53001d56081e",
   "type": "react_component:0.0.1:local:98912hd89",
   "data": {
@@ -11,5 +12,5 @@
   },
   "active": true,
   "createdAt": 1523128862665,
-  "updatedAt": 1523128933885
+  "updatedAt": 1523302095851
 }

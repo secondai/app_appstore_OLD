@@ -1,5 +1,6 @@
 {
   "_id": "5ac679436ce165001d7acb12",
+  "name": "MainAppEditorComponent",
   "nodeId": "5ac47ae265eb53001d56081e",
   "type": "react_component:0.0.1:local:98912hd89",
   "data": {
@@ -12,5 +13,5 @@
   },
   "active": true,
   "createdAt": 1522956611048,
-  "updatedAt": 1523088507951
+  "updatedAt": 1523302078880
 }

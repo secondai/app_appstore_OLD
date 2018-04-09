@@ -1,5 +1,6 @@
 {
   "_id": "5ac47b0065eb53001d560835",
+  "name": "MainExternalAppStoreComponent",
   "nodeId": "5ac47ae265eb53001d56081e",
   "type": "react_component:0.0.1:local:98912hd89",
   "data": {
@@ -11,5 +12,5 @@
   },
   "active": true,
   "createdAt": 1522825984900,
-  "updatedAt": 1523155577744
+  "updatedAt": 1523302129628
 }

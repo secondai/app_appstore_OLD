@@ -1,5 +1,6 @@
 {
   "_id": "5ac47b9865eb53001d560864",
+  "name": "app_store_browser",
   "type": "app_base:Qmtesting",
   "data": {
     "appId": "ba44345d-e5f9-4039-9e89-5be77a6c1e34",
@@ -13,5 +14,5 @@
   },
   "active": true,
   "createdAt": 1522826136025,
-  "updatedAt": 1522985055125
+  "updatedAt": 1523301954904
 }

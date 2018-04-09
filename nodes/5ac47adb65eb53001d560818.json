@@ -1,0 +1,12 @@
+{
+  "_id": "5ac47adb65eb53001d560818",
+  "name": "platform_browser",
+  "nodeId": "5ac47b9865eb53001d560864",
+  "type": "platform_nodes:Qmtlksjflsdjfljf",
+  "data": {
+    "platform": "browser"
+  },
+  "active": true,
+  "createdAt": 1522825947440,
+  "updatedAt": 1523301965427
+}

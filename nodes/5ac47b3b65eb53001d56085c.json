@@ -1,0 +1,13 @@
+{
+  "_id": "5ac47b3b65eb53001d56085c",
+  "name": "c9ae2dea-7a28-41ab-a733-59dd2a29c53e",
+  "nodeId": "5ac47adb65eb53001d560818",
+  "type": "capability:0.0.1:local:187h78h23",
+  "data": {
+    "version": "1.0.0",
+    "key": "IdentifyActAsInternalUser"
+  },
+  "active": true,
+  "createdAt": 1522826043465,
+  "updatedAt": null
+}

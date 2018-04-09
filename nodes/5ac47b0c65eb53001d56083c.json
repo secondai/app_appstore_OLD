@@ -1,0 +1,12 @@
+{
+  "_id": "5ac47b0c65eb53001d56083c",
+  "name": "5cf81a2a-7fda-40e8-b7d9-8b083df07af8",
+  "nodeId": "5ac47b0765eb53001d56083a",
+  "type": "incoming_query_type_matcher:0.0.1:local:3242rx23rd3",
+  "data": {
+    "typeMatch": "browser_startup:0.0.1:local:8831167ssd"
+  },
+  "active": true,
+  "createdAt": 1522825996524,
+  "updatedAt": null
+}
